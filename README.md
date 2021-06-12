@@ -1,4 +1,4 @@
 # hello-wolrd
-Testing first repository
+# [delete] xxx first xxx
 # This is my first experience in GitHub
-happy corner is fantastic
+[delete] happy corner
